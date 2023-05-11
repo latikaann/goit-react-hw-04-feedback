@@ -1,0 +1,19 @@
+.statisticksList {
+    font-weight: 500;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+.statisticksItem {
+    display: flex;
+    gap: 10px;
+
+}
+
+.feedbackPercentage,
+.feedbackTotal {
+    font-weight: 600;
+    font-size: 25px;
+
+
+}
